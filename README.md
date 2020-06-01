@@ -13,7 +13,7 @@ To start using this project use the following commands:
 ## License info
 MIT License
 
-Copyright (c) 2018 Moringa School
+Copyright (c) 2020 WinnieAnyoso
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
